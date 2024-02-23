@@ -1,3 +1,8 @@
 body p {
     background: yellow;
 }
+
+body h2 {
+    color: red;
+    font-size: 40px;
+}
